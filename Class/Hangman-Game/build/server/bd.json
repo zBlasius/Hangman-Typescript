@@ -1,0 +1,19 @@
+{
+    "Words": {
+        "level01": ["BANANA", "CHUCRUTE", "ABACAXI", "COMPUTADOR"],
+        "level02": ["TECLADO", "MOUSE", "STRING", "CELULAR"],
+        "level03": ["CHACRINHA", "CHARLOTE", "FUNCTION", "ARRAY"],
+        "level04": ["MACARRONADA", "CAMOMILA", "LS-JACK", "ESTIPURUTE"]
+    },
+    "Progress": {
+        "life": 5,
+        "currentLevel": "level01"
+    },
+    "User": {
+        "id": 345,
+        "name": "Gustavo Blasius",
+        "age": 20,
+        "login": "gustavo123",
+        "password": "123"
+    }
+}
