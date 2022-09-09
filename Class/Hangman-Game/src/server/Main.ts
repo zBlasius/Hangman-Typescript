@@ -11,7 +11,7 @@ interface UserData{
     password: string
 }
 
-class MainGame{
+export default class MainGame{
     
     getWord(level:LEVEL):string{
         const wordClass = new Word();
@@ -32,6 +32,3 @@ class MainGame{
     }
 
 }
-
-const teste = new MainGame();
-teste.getWord("level03");
